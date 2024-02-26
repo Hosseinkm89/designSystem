@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Mobileapp-fonticon';
-  src:  url('fonts/Mobileapp-fonticon.eot?91wqk3');
-  src:  url('fonts/Mobileapp-fonticon.eot?91wqk3#iefix') format('embedded-opentype'),
-    url('fonts/Mobileapp-fonticon.ttf?91wqk3') format('truetype'),
-    url('fonts/Mobileapp-fonticon.woff?91wqk3') format('woff'),
-    url('fonts/Mobileapp-fonticon.svg?91wqk3#Mobileapp-fonticon') format('svg');
+  src:  url('fonts/Mobileapp-fonticon.eot?r5jokw');
+  src:  url('fonts/Mobileapp-fonticon.eot?r5jokw#iefix') format('embedded-opentype'),
+    url('fonts/Mobileapp-fonticon.ttf?r5jokw') format('truetype'),
+    url('fonts/Mobileapp-fonticon.woff?r5jokw') format('woff'),
+    url('fonts/Mobileapp-fonticon.svg?r5jokw#Mobileapp-fonticon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -420,4 +420,16 @@
 }
 .iconwalletout:before {
   content: "\e981";
+}
+.iconLeft-Down-Circle:before {
+  content: "\e982";
+}
+.iconRight-Up-Circle:before {
+  content: "\e985";
+}
+.iconcorner-right-up-Circle:before {
+  content: "\e983";
+}
+.iconArrow-Down-MD:before {
+  content: "\e984";
 }
