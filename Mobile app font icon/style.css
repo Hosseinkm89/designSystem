@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Mobileapp-fonticon';
-  src:  url('fonts/Mobileapp-fonticon.eot?kwcdpy');
-  src:  url('fonts/Mobileapp-fonticon.eot?kwcdpy#iefix') format('embedded-opentype'),
-    url('fonts/Mobileapp-fonticon.ttf?kwcdpy') format('truetype'),
-    url('fonts/Mobileapp-fonticon.woff?kwcdpy') format('woff'),
-    url('fonts/Mobileapp-fonticon.svg?kwcdpy#Mobileapp-fonticon') format('svg');
+  src:  url('fonts/Mobileapp-fonticon.eot?70gxvs');
+  src:  url('fonts/Mobileapp-fonticon.eot?70gxvs#iefix') format('embedded-opentype'),
+    url('fonts/Mobileapp-fonticon.ttf?70gxvs') format('truetype'),
+    url('fonts/Mobileapp-fonticon.woff?70gxvs') format('woff'),
+    url('fonts/Mobileapp-fonticon.svg?70gxvs#Mobileapp-fonticon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,1293 +25,435 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.iconusers .path1:before {
-  content: "\e942";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconusers .path2:before {
-  content: "\e94a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconusers .path3:before {
-  content: "\e9a4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconusers .path4:before {
-  content: "\e9a5";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconusers .path5:before {
-  content: "\e9a6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconusers .path6:before {
-  content: "\e9a7";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconbankCardDouble2 .path1:before {
-  content: "\e9a8";
-  color: rgb(0, 0, 0);
-}
-.iconbankCardDouble2 .path2:before {
-  content: "\e9a9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconbankCardDouble2 .path3:before {
-  content: "\e9aa";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconbankCarrdLove .path1:before {
-  content: "\e9ab";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconbankCarrdLove .path2:before {
-  content: "\e9ac";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconbankCarrdLove .path3:before {
-  content: "\e9ad";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconbarChartAltVertical .path1:before {
-  content: "\e9ae";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconbarChartAltVertical .path2:before {
-  content: "\e9af";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconbarChartAltVertical .path3:before {
-  content: "\e9b0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconbook .path1:before {
-  content: "\e9b1";
-  color: rgb(0, 0, 0);
-}
-.iconbook .path2:before {
-  content: "\e9b2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconbook .path3:before {
-  content: "\e9b3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcalendarTime .path1:before {
-  content: "\e9b4";
-  color: rgb(0, 0, 0);
-}
-.iconcalendarTime .path2:before {
-  content: "\e9b5";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcalendarTime .path3:before {
-  content: "\e9b6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcalendarTime .path4:before {
-  content: "\e9b7";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcalendarTime .path5:before {
-  content: "\e9b8";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcalendarTime .path6:before {
-  content: "\e9b9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcharityCoins .path1:before {
-  content: "\e9ba";
-  color: rgb(0, 0, 0);
-}
-.iconcharityCoins .path2:before {
-  content: "\e9bb";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcharityCoins .path3:before {
-  content: "\e9bc";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcharityCoins .path4:before {
-  content: "\e9bd";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcloseRemove .path1:before {
-  content: "\e9be";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcloseRemove .path2:before {
-  content: "\e9bf";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcloseRemove .path3:before {
-  content: "\e9c0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcloudRefresh2 .path1:before {
-  content: "\e9c1";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcloudRefresh2 .path2:before {
-  content: "\e9c2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcloudRefresh2 .path3:before {
-  content: "\e9c3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcloudRefresh2 .path4:before {
-  content: "\e9c4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcloudRefresh2 .path5:before {
-  content: "\e9c5";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoinSwap3 .path1:before {
-  content: "\e9c6";
-  color: rgb(0, 0, 0);
-}
-.iconcoinSwap3 .path2:before {
-  content: "\e9c7";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoinSwap3 .path3:before {
-  content: "\e9c8";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoinSwap3 .path4:before {
-  content: "\e9c9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoinSwap3 .path5:before {
-  content: "\e9ca";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcoinSwap3 .path6:before {
-  content: "\e9cb";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcoins1 .path1:before {
-  content: "\e9cc";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcoins1 .path2:before {
-  content: "\e9cd";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconcoins1 .path3:before {
-  content: "\e9ce";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoins1 .path4:before {
-  content: "\e9cf";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoins1 .path5:before {
-  content: "\e9d0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconcoins1 .path6:before {
-  content: "\e9d1";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path1:before {
-  content: "\e9d2";
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path2:before {
-  content: "\e9d3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path3:before {
-  content: "\e9d4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path4:before {
-  content: "\e9d5";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path5:before {
-  content: "\e9d6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path6:before {
-  content: "\e9d7";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondeliveryBoxChange2 .path7:before {
-  content: "\e9d8";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondeliveryBoxChange2 .path8:before {
-  content: "\e9d9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path1:before {
-  content: "\e9da";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path2:before {
-  content: "\e9db";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path3:before {
-  content: "\e9dc";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path4:before {
-  content: "\e9dd";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondiscountBag .path5:before {
-  content: "\e9de";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path6:before {
-  content: "\e9df";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondiscountBag .path7:before {
-  content: "\e9e0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondiscountBag .path8:before {
-  content: "\e9e1";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icondiscountBag .path9:before {
-  content: "\e9e2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icondocs2 .path1:before {
-  content: "\e9e3";
-  color: rgb(0, 0, 0);
-}
-.icondocs2 .path2:before {
-  content: "\e9e4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongift2 .path1:before {
-  content: "\e9e5";
-  color: rgb(0, 0, 0);
-}
-.icongift2 .path2:before {
-  content: "\e9e6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icongift2 .path3:before {
-  content: "\e9e7";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icongift2 .path4:before {
-  content: "\e9e8";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongift2 .path5:before {
-  content: "\e9e9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongolds .path1:before {
-  content: "\e9ea";
-  color: rgb(0, 0, 0);
-}
-.icongolds .path2:before {
-  content: "\e9eb";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icongolds .path3:before {
-  content: "\e9ec";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongolds .path4:before {
-  content: "\e9ed";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icongridInterface1 .path1:before {
-  content: "\e9ee";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongridInterface1 .path2:before {
-  content: "\e9ef";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icongridInterface1 .path3:before {
-  content: "\e9f0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icongridInterface1 .path4:before {
-  content: "\e9f1";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconinstagram2 .path1:before {
-  content: "\e9f2";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconinstagram2 .path2:before {
-  content: "\e9f3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconinstagram2 .path3:before {
-  content: "\e9f4";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmessagesBubble2 .path1:before {
-  content: "\e9f5";
-  color: rgb(0, 0, 0);
-}
-.iconmessagesBubble2 .path2:before {
-  content: "\e9f6";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmessagesTrade2 .path1:before {
-  content: "\e9f7";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmessagesTrade2 .path2:before {
-  content: "\e9f8";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmessagesTrade2 .path3:before {
-  content: "\e9f9";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmessagesTrade2 .path4:before {
-  content: "\e9fa";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconnew .path1:before {
-  content: "\e9fb";
-  color: rgb(0, 0, 0);
-}
-.iconnew .path2:before {
-  content: "\e9fc";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconnew .path3:before {
-  content: "\e9fd";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconnew .path4:before {
-  content: "\e9fe";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconnew .path5:before {
-  content: "\e9ff";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconquestionMarkSquare1 .path1:before {
-  content: "\ea00";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconquestionMarkSquare1 .path2:before {
-  content: "\ea01";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconquestionMarkSquare1 .path3:before {
-  content: "\ea02";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconringing2 .path1:before {
-  content: "\ea03";
-  color: rgb(0, 0, 0);
-}
-.iconringing2 .path2:before {
-  content: "\ea04";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconringing2 .path3:before {
-  content: "\ea05";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconringing2 .path4:before {
-  content: "\ea06";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconshoppingBagPlus1 .path1:before {
-  content: "\ea07";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconshoppingBagPlus1 .path2:before {
-  content: "\ea08";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconshoppingBagPlus1 .path3:before {
-  content: "\ea09";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconshoppingBagPlus1 .path4:before {
-  content: "\ea0a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path1:before {
-  content: "\ea0b";
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path2:before {
-  content: "\ea0c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconticket2 .path3:before {
-  content: "\ea0d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path4:before {
-  content: "\ea0e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path5:before {
-  content: "\ea0f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path6:before {
-  content: "\ea10";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconticket2 .path7:before {
-  content: "\ea11";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icontrendUpGraphBox2 .path1:before {
-  content: "\ea12";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.icontrendUpGraphBox2 .path2:before {
-  content: "\ea13";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icontrendUpGraphBox2 .path3:before {
-  content: "\ea14";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icontrendUpGraphBox2 .path4:before {
-  content: "\ea15";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icontrendUpGraphBox2 .path5:before {
-  content: "\ea16";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.icontrendUpGraphBox2 .path6:before {
-  content: "\ea17";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletDoublle2 .path1:before {
-  content: "\ea18";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletDoublle2 .path2:before {
-  content: "\ea19";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletDoublle2 .path3:before {
-  content: "\ea1a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletDoublle2 .path4:before {
-  content: "\ea1b";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletIncome2 .path1:before {
-  content: "\ea1c";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletIncome2 .path2:before {
-  content: "\ea1d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletIncome2 .path3:before {
-  content: "\ea1e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletIncome2 .path4:before {
-  content: "\ea1f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletOut2 .path1:before {
-  content: "\ea20";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletOut2 .path2:before {
-  content: "\ea21";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletOut2 .path3:before {
-  content: "\ea22";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletOut2 .path4:before {
-  content: "\ea23";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletTransfer .path1:before {
-  content: "\ea24";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconwalletTransfer .path2:before {
-  content: "\ea25";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletTransfer .path3:before {
-  content: "\ea26";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletTransfer .path4:before {
-  content: "\ea27";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconwalletTransfer .path5:before {
-  content: "\ea28";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmedal .path1:before {
-  content: "\e9a1";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmedal .path2:before {
-  content: "\e9a2";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal .path3:before {
-  content: "\e9a3";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal1 .path1:before {
-  content: "\e99e";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmedal1 .path2:before {
-  content: "\e99f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal1 .path3:before {
-  content: "\e9a0";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal2 .path1:before {
-  content: "\e998";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmedal2 .path2:before {
-  content: "\e999";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal2 .path3:before {
-  content: "\e99a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal3 .path1:before {
-  content: "\e99b";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
-}
-.iconmedal3 .path2:before {
-  content: "\e99c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconmedal3 .path3:before {
-  content: "\e99d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconchartThreeLine .path1:before {
+.iconplus2:before {
   content: "\e900";
-  color: rgb(29, 27, 32);
-  opacity: 0.4;
 }
-.iconchartThreeLine .path2:before {
+.iconapple:before {
   content: "\e901";
-  margin-left: -1em;
-  color: rgb(29, 27, 32);
-  opacity: 0.4;
 }
-.iconchartThreeLine .path3:before {
+.icongoogleplay:before {
   content: "\e902";
-  margin-left: -1em;
-  color: rgb(29, 27, 32);
 }
-.iconcoinSwap .path1:before {
+.icongridInterface1:before {
   content: "\e903";
-  color: rgb(0, 0, 0);
 }
-.iconcoinSwap .path2:before {
+.iconcheckCircle1:before {
   content: "\e904";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconcoinSwap .path3:before {
+.icongridInterface41:before {
   content: "\e905";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.iconcoinSwap .path4:before {
+.iconpen2:before {
   content: "\e906";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.icongridInterface .path1:before {
+.iconremoveCircle:before {
   content: "\e907";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.icongridInterface .path2:before {
+.iconstar:before {
   content: "\e908";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.icongridInterface .path3:before {
+.iconstar1:before {
   content: "\e909";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.icongridInterface .path4:before {
+.iconleft1:before {
   content: "\e90a";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconhome .path1:before {
+.iconleftUp:before {
   content: "\e90b";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.iconhome .path2:before {
+.iconright1:before {
   content: "\e90c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconhome .path3:before {
+.iconup1:before {
   content: "\e90d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconhpDiamond .path1:before {
+.iconleft:before {
   content: "\e90e";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.iconhpDiamond .path2:before {
+.iconup:before {
   content: "\e90f";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconwalletDouble .path1:before {
+.iconright:before {
   content: "\e910";
-  color: rgb(0, 0, 0);
-  opacity: 0.4;
 }
-.iconwalletDouble .path2:before {
+.icondown:before {
   content: "\e911";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconwalletDouble .path3:before {
+.icontrendDown:before {
   content: "\e912";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
-.iconwalletDouble .path4:before {
+.icontrendUp:before {
   content: "\e913";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.iconinstagram:before {
-  content: "\e914";
-}
-.iconfacebook:before {
-  content: "\e915";
-}
-.icontelegram:before {
-  content: "\e916";
-}
-.iconx:before {
-  content: "\e917";
 }
 .iconuser:before {
-  content: "\e918";
+  content: "\e914";
 }
-.iconprofile:before {
-  content: "\e919";
+.iconprofile1:before {
+  content: "\e915";
 }
 .iconbankCard:before {
-  content: "\e91a";
+  content: "\e916";
 }
 .iconbankCardDouble:before {
-  content: "\e91b";
+  content: "\e917";
 }
 .iconbitcoin:before {
-  content: "\e91c";
+  content: "\e918";
 }
 .iconcalendar:before {
-  content: "\e91d";
+  content: "\e919";
 }
 .iconcalendarSticker:before {
-  content: "\e91e";
+  content: "\e91a";
 }
 .iconcameraPlus:before {
-  content: "\e91f";
+  content: "\e91b";
 }
-.iconcandleChartLine:before {
-  content: "\e920";
+.iconcandleChart2Line:before {
+  content: "\e91c";
 }
-.iconcardLock:before {
-  content: "\e921";
+.iconcardlock:before {
+  content: "\e91d";
 }
 .iconcategories:before {
-  content: "\e922";
+  content: "\e91e";
 }
 .iconchat:before {
-  content: "\e923";
+  content: "\e91f";
 }
 .iconcheckCircle:before {
-  content: "\e924";
+  content: "\e920";
 }
 .iconclearText:before {
-  content: "\e925";
+  content: "\e921";
 }
 .iconclipboardDownload:before {
-  content: "\e926";
+  content: "\e922";
 }
 .iconcloudRefresh:before {
-  content: "\e927";
+  content: "\e923";
 }
-.iconcoinSwap2:before {
-  content: "\e928";
+.iconcoinSwap:before {
+  content: "\e924";
 }
 .iconcoins:before {
-  content: "\e929";
-}
-.iconconfounded:before {
-  content: "\e92a";
-}
-.iconneutral:before {
-  content: "\e92b";
-}
-.iconrelieved:before {
-  content: "\e92c";
-}
-.icongrinningSquinting:before {
-  content: "\e92d";
-}
-.iconslightlyFrowning:before {
-  content: "\e92e";
+  content: "\e925";
 }
 .iconcopy:before {
-  content: "\e92f";
+  content: "\e926";
 }
-.icondatabaseRefresh:before {
-  content: "\e930";
+.icondataBaseRefresh:before {
+  content: "\e927";
 }
 .icondelete:before {
-  content: "\e931";
+  content: "\e928";
 }
 .icondeliveryBoxChange:before {
-  content: "\e932";
+  content: "\e929";
 }
 .icondiscount:before {
-  content: "\e933";
+  content: "\e92a";
 }
 .icondocs:before {
-  content: "\e934";
+  content: "\e92b";
 }
-.icondocumentPaperes:before {
-  content: "\e935";
+.icondocumentPaper2Lines:before {
+  content: "\e92c";
 }
 .icondocumentVerified:before {
-  content: "\e936";
+  content: "\e92d";
 }
-.icondonutBarChart:before {
-  content: "\e937";
+.icondonutbarChart:before {
+  content: "\e92e";
 }
 .icondownload:before {
-  content: "\e938";
+  content: "\e92f";
 }
 .iconemailLock:before {
-  content: "\e939";
+  content: "\e930";
 }
 .iconextendVertical2 .path1:before {
-  content: "\e93a";
+  content: "\e931";
   color: rgb(228, 42, 60);
 }
 .iconextendVertical2 .path2:before {
-  content: "\e93b";
+  content: "\e932";
   margin-left: -1em;
   color: rgb(0, 164, 126);
 }
 .iconextendVertical .path1:before {
-  content: "\e93c";
+  content: "\e933";
   color: rgb(0, 164, 126);
 }
 .iconextendVertical .path2:before {
-  content: "\e93d";
+  content: "\e934";
   margin-left: -1em;
   color: rgb(228, 42, 60);
 }
-.iconfilter:before {
-  content: "\e93e";
+.iconfacebook:before {
+  content: "\e935";
 }
-.iconfingerprintScan:before {
-  content: "\e93f";
+.iconinstagram:before {
+  content: "\e936";
 }
-.icongift:before {
-  content: "\e940";
+.iconxcom:before {
+  content: "\e937";
+}
+.icontelegram:before {
+  content: "\e938";
 }
 .icongoogleAuthentication:before {
-  content: "\e941";
+  content: "\e939";
 }
-.icongridinterface2:before {
-  content: "\e943";
+.iconfilter:before {
+  content: "\e93a";
 }
-.icongridinterface3:before {
-  content: "\e944";
+.iconfingerprintScan:before {
+  content: "\e93b";
 }
-.icongridinterface:before {
-  content: "\e945";
-}
-.iconheadphone:before {
-  content: "\e946";
-}
-.iconshow:before {
-  content: "\e947";
-}
-.iconhide:before {
-  content: "\e948";
-}
-.iconimage:before {
-  content: "\e949";
-}
-.iconinfoMenu:before {
-  content: "\e94b";
-}
-.iconinfomenu2:before {
-  content: "\e94c";
-}
-.iconleft1:before {
-  content: "\e94d";
-}
-.iconup1:before {
-  content: "\e94e";
-}
-.iconleftUp:before {
-  content: "\e94f";
-}
-.iconright1:before {
-  content: "\e950";
-}
-.iconright:before {
-  content: "\e951";
-}
-.iconup:before {
-  content: "\e952";
-}
-.iconleft:before {
-  content: "\e953";
-}
-.icondown:before {
-  content: "\e954";
-}
-.icontrendUp:before {
-  content: "\e955";
-}
-.icontrendDown:before {
-  content: "\e956";
-}
-.iconswapHorizontal:before {
-  content: "\e957";
-}
-.iconswitchHorizontal:before {
-  content: "\e958";
-}
-.iconlensShutter:before {
-  content: "\e959";
-}
-.iconvideo:before {
-  content: "\e95a";
-}
-.iconlock:before {
-  content: "\e95b";
-}
-.iconlock2:before {
-  content: "\e95c";
-}
-.iconlogout:before {
-  content: "\e95d";
-}
-.iconmedal4:before {
-  content: "\e95e";
-}
-.iconmedal5:before {
-  content: "\e95f";
-}
-.iconmessagesBubble:before {
-  content: "\e960";
-}
-.iconmessagesTrade:before {
-  content: "\e961";
-}
-.iconmoneyBagDollar:before {
-  content: "\e962";
-}
-.iconmoneyPaperDownload:before {
-  content: "\e963";
-}
-.iconsun:before {
-  content: "\e964";
-}
-.iconmoon:before {
-  content: "\e965";
-}
-.iconmoreCircle:before {
-  content: "\e966";
-}
-.iconnotebook:before {
-  content: "\e967";
-}
-.iconnumber1Circle:before {
-  content: "\e968";
-}
-.iconnumber2Circle:before {
-  content: "\e969";
-}
-.iconnumber3Circle:before {
-  content: "\e96a";
-}
-.iconnumber4Circle:before {
-  content: "\e96b";
-}
-.iconnumber4Square:before {
-  content: "\e96c";
-}
-.iconoff:before {
-  content: "\e96d";
-}
-.iconpaintingPalette:before {
-  content: "\e96e";
-}
-.iconpaperUpload:before {
-  content: "\e96f";
-}
-.iconpasswordLock:before {
-  content: "\e970";
-}
-.iconpen:before {
-  content: "\e971";
-}
-.iconpen2:before {
-  content: "\e972";
-}
-.iconphoneNumberPad1:before {
-  content: "\e973";
-}
-.iconphoneNumberPad:before {
-  content: "\e974";
-}
-.iconpin:before {
-  content: "\e975";
-}
-.iconinfoCircle:before {
-  content: "\e976";
-}
-.iconplus:before {
-  content: "\e977";
-}
-.iconremoveCircle:before {
-  content: "\e978";
-}
-.iconqRCode:before {
-  content: "\e979";
-}
-.iconquestionMarkSquare:before {
-  content: "\e97a";
-}
-.iconringing:before {
-  content: "\e97b";
-}
-.iconscan:before {
-  content: "\e97c";
-}
-.iconsearch:before {
-  content: "\e97d";
-}
-.iconsetting:before {
-  content: "\e97e";
-}
-.iconshare:before {
-  content: "\e97f";
-}
-.iconshieldDone:before {
-  content: "\e980";
-}
-.iconshoppingBagPlus:before {
-  content: "\e981";
-}
-.iconsmartPhone:before {
-  content: "\e982";
-}
-.iconstar1:before {
-  content: "\e983";
-}
-.iconstopwatchPlay:before {
-  content: "\e984";
-}
-.iconsuccessDocuments:before {
-  content: "\e985";
-}
-.iconthumbLikeDislike:before {
-  content: "\e986";
-}
-.iconticket:before {
-  content: "\e987";
-}
-.icontranslateLanguage:before {
-  content: "\e988";
-}
-.icontrendUpGraphBox:before {
-  content: "\e989";
-}
-.iconunsuccessDocuments:before {
-  content: "\e98a";
-}
-.iconupdateLeft:before {
-  content: "\e98b";
-}
-.iconuserScan:before {
-  content: "\e98c";
-}
-.iconwalletIncome:before {
-  content: "\e98d";
-}
-.iconwalletOut:before {
-  content: "\e98e";
-}
-.iconremoveCircle2:before {
-  content: "\e98f";
-}
-.iconapple:before {
-  content: "\e990";
-}
-.iconcheckcircle:before {
-  content: "\e991";
-}
-.icongooglePlay:before {
-  content: "\e992";
+.icongift:before {
+  content: "\e93c";
 }
 .icongridInterface2:before {
-  content: "\e993";
+  content: "\e93d";
 }
 .icongridInterface3:before {
-  content: "\e994";
+  content: "\e93e";
+}
+.icongridInterface4:before {
+  content: "\e93f";
+}
+.iconinfomenu1:before {
+  content: "\e940";
+}
+.iconinfoMenu2:before {
+  content: "\e941";
+}
+.icongrinningSquinting:before {
+  content: "\e942";
+}
+.iconrelieved:before {
+  content: "\e943";
+}
+.iconneutral:before {
+  content: "\e944";
+}
+.iconslightlyFrowning:before {
+  content: "\e945";
+}
+.iconconfounded:before {
+  content: "\e946";
+}
+.iconheadphone:before {
+  content: "\e947";
+}
+.iconshow:before {
+  content: "\e948";
+}
+.iconhide:before {
+  content: "\e949";
+}
+.iconimage:before {
+  content: "\e94a";
+}
+.iconinfocircle:before {
+  content: "\e94b";
+}
+.iconvideo:before {
+  content: "\e94c";
+}
+.iconlensshutter:before {
+  content: "\e94d";
+}
+.iconlock1:before {
+  content: "\e94e";
+}
+.iconlock:before {
+  content: "\e94f";
+}
+.iconlogout:before {
+  content: "\e950";
+}
+.iconmedal2:before {
+  content: "\e951";
+}
+.iconmedal1:before {
+  content: "\e952";
+}
+.iconmessagesBubble:before {
+  content: "\e953";
+}
+.iconmessagesTrade:before {
+  content: "\e954";
+}
+.iconmoneyBagDollar:before {
+  content: "\e955";
+}
+.iconmoneyPaperDownload:before {
+  content: "\e956";
+}
+.iconmoon:before {
+  content: "\e957";
+}
+.iconmoreCircle:before {
+  content: "\e958";
+}
+.iconnotebook1:before {
+  content: "\e959";
+}
+.iconnumber1Circle:before {
+  content: "\e95a";
+}
+.iconnumber2Circle:before {
+  content: "\e95b";
+}
+.iconnumber3Circle:before {
+  content: "\e95c";
+}
+.iconnumber4Circle:before {
+  content: "\e95d";
+}
+.iconnumber4Square:before {
+  content: "\e95e";
+}
+.iconoff:before {
+  content: "\e95f";
+}
+.iconpaintingPalette:before {
+  content: "\e960";
+}
+.iconpaperUpload:before {
+  content: "\e961";
+}
+.iconpasswordLock:before {
+  content: "\e962";
 }
 .iconpen1:before {
-  content: "\e995";
+  content: "\e963";
 }
-.iconstar:before {
-  content: "\e996";
+.iconpen3:before {
+  content: "\e964";
 }
-.iconplus2:before {
-  content: "\e997";
+.iconphoneNumberPad1:before {
+  content: "\e965";
 }
-.iconwirelessRemoveError:before {
-  content: "\ea29";
+.iconphoneNumberPad:before {
+  content: "\e966";
 }
-.iconsortUp:before {
-  content: "\ea2a";
+.iconpin1:before {
+  content: "\e967";
 }
-.iconsortDown:before {
-  content: "\ea2b";
+.iconplus1:before {
+  content: "\e968";
 }
-.iconrightUpCircle:before {
-  content: "\ea2c";
+.iconremovecircle:before {
+  content: "\e969";
+}
+.iconqrCode:before {
+  content: "\e96a";
+}
+.iconquestionMarkSquare:before {
+  content: "\e96b";
+}
+.iconringing:before {
+  content: "\e96c";
+}
+.iconscan:before {
+  content: "\e96d";
+}
+.iconsearch:before {
+  content: "\e96e";
+}
+.iconsetting:before {
+  content: "\e96f";
+}
+.iconshare:before {
+  content: "\e970";
+}
+.iconshieldDone:before {
+  content: "\e971";
+}
+.iconshoppingBagPlus:before {
+  content: "\e972";
+}
+.iconsmartphone:before {
+  content: "\e973";
+}
+.iconstopWatchPlay:before {
+  content: "\e974";
+}
+.iconsuccessDocuments:before {
+  content: "\e975";
+}
+.iconsun:before {
+  content: "\e976";
+}
+.iconswapHorizontal1:before {
+  content: "\e977";
+}
+.iconswitchHorizontal:before {
+  content: "\e978";
+}
+.iconthumbLikeDislike:before {
+  content: "\e979";
+}
+.iconticket:before {
+  content: "\e97a";
+}
+.icontranslateLanguage:before {
+  content: "\e97b";
+}
+.icontrendUpgraphbox:before {
+  content: "\e97c";
+}
+.iconunsuccessDocuments:before {
+  content: "\e97d";
+}
+.iconupdateLeft:before {
+  content: "\e97e";
+}
+.iconuserScan:before {
+  content: "\e97f";
+}
+.iconwalletincome:before {
+  content: "\e980";
+}
+.iconwalletout:before {
+  content: "\e981";
 }
 .iconleftDownCircle:before {
-  content: "\ea2d";
+  content: "\e982";
 }
-.iconGift:before {
-  content: "\ea2e";
-}
-.iconlink:before {
-  content: "\ea2f";
-}
-.iconcenterRightLayout:before {
-  content: "\ea30";
+.iconcornerrightupCircle:before {
+  content: "\e983";
 }
 .iconarrowDownMD:before {
-  content: "\ea31";
+  content: "\e984";
+}
+.iconrightUpCircle:before {
+  content: "\e985";
 }
 .iconbroom:before {
-  content: "\ea32";
+  content: "\e986";
 }
-.iconcloseRemove2:before {
-  content: "\ea33";
+.iconcloseRemove:before {
+  content: "\e987";
+}
+.iconsortDown:before {
+  content: "\e989";
+}
+.iconsortUp:before {
+  content: "\e98a";
+}
+.iconwirelessRemoveError:before {
+  content: "\e98b";
+}
+.iconlink:before {
+  content: "\e98c";
+}
+.iconcenterRightLayout:before {
+  content: "\e98d";
+}
+.iconGift:before {
+  content: "\e988";
 }
