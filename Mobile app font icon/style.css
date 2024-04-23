@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Mobileapp-fonticon';
-  src:  url('fonts/Mobileapp-fonticon.eot?70gxvs');
-  src:  url('fonts/Mobileapp-fonticon.eot?70gxvs#iefix') format('embedded-opentype'),
-    url('fonts/Mobileapp-fonticon.ttf?70gxvs') format('truetype'),
-    url('fonts/Mobileapp-fonticon.woff?70gxvs') format('woff'),
-    url('fonts/Mobileapp-fonticon.svg?70gxvs#Mobileapp-fonticon') format('svg');
+  src:  url('fonts/Mobileapp-fonticon.eot?7wqvrl');
+  src:  url('fonts/Mobileapp-fonticon.eot?7wqvrl#iefix') format('embedded-opentype'),
+    url('fonts/Mobileapp-fonticon.ttf?7wqvrl') format('truetype'),
+    url('fonts/Mobileapp-fonticon.woff?7wqvrl') format('woff'),
+    url('fonts/Mobileapp-fonticon.svg?7wqvrl#Mobileapp-fonticon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -163,7 +163,7 @@
 .icondocumentVerified:before {
   content: "\e92d";
 }
-.icondonutbarChart:before {
+.icondoughnutBarChart:before {
   content: "\e92e";
 }
 .icondownload:before {
